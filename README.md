@@ -41,6 +41,7 @@ new technologies through hands-on projects.
 ---
 
 ## 📁 Project Structure
+
 ├── index.html
 ├── style.css
 ├── Script.js
