@@ -452,6 +452,13 @@ footer{
   border-top:1px solid #0f172a;
 }
 
+footer a{
+  transition: all .3s ease-in-out;
+}
+footer a:hover{
+  color: #38bdf8;
+}
+
 /* RESPONSIVE */
 @media(max-width:900px){
   header{padding:20px 30px}
