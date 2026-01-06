@@ -53,6 +53,7 @@ My-Portfolio/
 │     │    ├── styles.css
 │     ├── img/
 │     │    ├── ProfilePhoto.jpeg
+│     │    ├── favicon.svg
 │     ├── js/
 │     │    ├── script.js
 ├── index.html
